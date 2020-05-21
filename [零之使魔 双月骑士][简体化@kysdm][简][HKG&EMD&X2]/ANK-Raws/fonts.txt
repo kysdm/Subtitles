@@ -1,0 +1,6 @@
+﻿さなフォン角 <SanaFonKaku>
+方正粗圆_GBK <FZCuYuan-M03>
+方正剪纸_GBK <FZJianZhi-M23>
+方正准圆_GBK <FZZhunYuan-M02>
+思源黑体 CN
+思源黑体 CN Medium
