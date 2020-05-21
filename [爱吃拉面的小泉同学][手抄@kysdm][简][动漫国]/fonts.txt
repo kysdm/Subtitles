@@ -1,0 +1,25 @@
+﻿FOT-スーラ Pro EB <FOT-Seurat Pro EB>
+Zpix
+方正粗雅宋_GBK <FZYaSong-B-GBK>
+方正华隶_GBK <FZHuaLi-M14>
+方正卡通_GBK <FZKaTong-M19>
+方正兰亭粗黑_GBK <FZLanTingHei-B-GBK>
+方正兰亭黑_GBK <FZLanTingHei-R-GBK>
+方正兰亭特黑_GBK <FZLanTingHei-H-GBK>
+方正兰亭准黑_GBK <FZLanTingHei-M-GBK>
+方正喵鸣 <FZMM>
+方正胖娃_GBK <FZPangWa-M18>
+方正咆哮简体 <FZPXJW>
+方正少儿_GBK <FZShaoEr-M11>
+方正特雅宋_GBK <FZYaSong-H-GBK>
+方正正中黑简体 <FZZhengHeiS-DB-GB>
+方正准雅宋_GBK <FZYaSong-M-GBK>
+华康POP3体W12 <DFPOP3W12-GB>
+华康方圆体W7 <DFFangYuanW7-GB>
+翩翩体-简粗体 <HanziPen SC Bold>
+手札体-简 <Hannotate SC>
+腾祥嘉丽粗圆GB18030 <Tensentype JiaLiCuYuanGB18030>
+腾祥嘉丽大圆GB18030 <Tensentype JiaLiDaYuanGB18030>
+腾祥嘉丽中圆GB18030 <Tensentype JiaLiZhongYuanGB18030>
+腾祥嘉丽准粗圆GB18030 <Tensentype JiaLiZhunCuYuanGB18030>
+田氏颜体大字库 <Tianshi-Yanti>
