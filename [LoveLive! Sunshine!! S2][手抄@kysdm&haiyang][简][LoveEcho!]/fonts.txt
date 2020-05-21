@@ -1,0 +1,9 @@
+﻿FOT-あおかね Std EB <FOT-Aokane Std EB>
+FOT-スーラ ProN DB <FOT-Seurat ProN DB>
+FOT-ハミング Std B <FOT-Humming Std B>
+方正兰亭黑Pro Global Semibold <FZLTHPro Global Semibold>
+方正准圆_GBK <FZZhunYuan-M02>
+华康翩翩体W5-A <DFHanziPenW5-A>
+理杏葆元体 <LEXISFONT Baoyuan-GB>
+腾祥嘉丽大圆GB18030 <Tensentype JiaLiDaYuanGB18030>
+腾祥嘉丽中圆GB18030 <Tensentype JiaLiZhongYuanGB18030>

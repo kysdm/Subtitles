@@ -1,0 +1,20 @@
+﻿ＤＦＧ細丸ゴシック体 <DFGMaruGothic-Lt>
+ＤＦまるもじ体W7 <DFMaruMoji-W7>
+ＤＦ中丸ゴシック体 <DFMaruGothic-Md>
+ＤＦ綜藝体W7 <DFSoGei-W7>
+方正基础像素 <FZJCXS>
+方正兰亭粗黑_GBK <FZLanTingHei-B-GBK>
+方正兰亭黑_GBK <FZLanTingHei-R-GBK>
+方正兰亭圆_GBK <FZLanTingYuan-R-GBK>
+方正兰亭圆_GBK_粗 <FZLanTingYuan-B-GBK>
+方正喵呜体 <FZMiaoWuS-GB>
+方正小标宋_GBK <FZXiaoBiaoSong-B05>
+方正准圆_GBK <FZZhunYuan-M02>
+方正综艺简体 <FZZongYi-M05S>
+仿宋 <FangSong>
+黑体 <SimHei>
+华康少女文字W5 <DFShaoNvW5-GB>
+浪漫雅圆 <ZhunYuan>
+翩翩体-简粗体 <HanziPen SC Bold>
+手札体-简 <Hannotate SC>
+幼圆 <YouYuan>

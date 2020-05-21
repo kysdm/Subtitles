@@ -1,0 +1,7 @@
+﻿A-OTF じゅん Pro 501 <A-OTF Jun Pro 501>
+ＤＦＰまるもじ体W3 <DFPMaruMoji-W3>
+FC平成極太丸ゴシック体
+方正兰亭黑_GBK <FZLanTingHei-R-GBK>
+方正兰亭圆_GBK <FZLanTingYuan-R-GBK>
+方正兰亭圆_GBK_大 <FZLanTingYuan-EB-GBK>
+腾祥嘉丽准粗圆GB18030 <Tensentype JiaLiZhunCuYuanGB18030>

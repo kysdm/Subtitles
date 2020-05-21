@@ -1,0 +1,5 @@
+﻿ＤＦＧブラッシュＲＤW12 <DFGBrushRD-W12>
+华康方圆体W7(P) <DFPFangYuanW7-GB>
+華康方圓體W7 <DFFangYuanW7-B5>
+腾祥嘉丽大圆GB18030 <Tensentype JiaLiDaYuanGB18030>
+腾祥嘉丽中圆GB18030 <Tensentype JiaLiZhongYuanGB18030>
