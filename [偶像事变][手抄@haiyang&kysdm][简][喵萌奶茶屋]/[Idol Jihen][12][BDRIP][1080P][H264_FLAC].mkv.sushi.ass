@@ -1,0 +1,394 @@
+﻿[Script Info]
+; 『本字幕仅供学习交流，严禁用于商业途径』
+; 『禁转网赚网盘 (包括但不限于城通网盘、YunFile)』
+; 『转载请署名及注明出处』
+; 『未经允许，请勿随意更改字幕文件。』
+; 本字幕仅发布在VCB论坛 http://bbs.vcb-s.com/thread-3403-1-1.html
+; 本字幕由 haiyang & kysdm 手抄自喵萌奶茶屋字幕组
+Original Script: 喵萌奶茶屋
+Original Translation: 喵萌奶茶屋
+Original Editing: haiyang
+Original Timing: haiyang
+Script Updated By: kysdm
+ScriptType: v4.00+
+PlayResY: 720
+PlayResX: 1280
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Idol_Jihen_main,腾祥嘉丽中圆GB18030,46,&H00FFFFFF,&H000000FF,&H007B3EC1,&H00000000,-1,0,0,0,100,100,0,0,1,1.8,0,2,10,10,15,1
+Style: Idol_Jihen_title,方正兰亭中黑简体,47,&H00FEFEFE,&H000000FF,&H00303035,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,10,10,10,1
+Style: Idol_Jihen_screen,方正兰亭黑_GBK,33,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.9,0,7,15,15,15,1
+Style: Idol_Jihen_main_up,腾祥嘉丽中圆GB18030,38,&H00FFFFFF,&H000000FF,&H007B3EC1,&H00000000,-1,0,0,0,100,100,0,0,1,1.8,0,8,10,10,15,1
+Style: Idol_Jihen_song_cn,文鼎奈谷米POP体_B,36,&H00FFFFFF,&H000000FF,&H006E208C,&H00000000,0,0,0,0,100,100,0,0,1,1.9,0,7,15,15,15,1
+Style: Idol_Jihen_song_jp,FOT-KafuNagomi Std B,48,&H00FFFFFF,&H000000FF,&H006E208C,&H00000000,0,0,0,0,100,100,0,0,1,1.9,0,7,15,15,10,1
+Style: Idol_Jihen_op_cn,腾祥嘉丽细圆GB18030,30,&H00FFFFFF,&H000000FF,&H00EE0B1E,&H00000000,0,0,0,0,100,100,0,0,1,2.1,0,8,20,10,20,1
+Style: Idol_Jihen_op_jp,FOT-Seurat ProN M,37,&H00FFFFFF,&H000000FF,&H00EE0B1E,&H00000000,0,0,0,0,100,100,0,0,1,2.1,0,2,20,10,15,1
+Style: Idol_Jihen_ed_cn,华康流叶体 Std W3,30,&H00E2E4F0,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0.4,0,8,15,15,15,1
+Style: Idol_Jihen_ed_jp,FOT-arc Std R,47,&H00E2E4F0,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0.3,0,2,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.59,0:00:07.34,Idol_Jihen_main,,0,0,0,,最终还是下雨了
+Dialogue: 0,0:00:09.22,0:00:11.89,Idol_Jihen_main,,0,0,0,,但是没想到 一个观众也没有来
+Dialogue: 0,0:00:13.30,0:00:15.60,Idol_Jihen_main,,0,0,0,,明明在网上发布好了公告的
+Dialogue: 0,0:00:18.39,0:00:20.60,Idol_Jihen_main,,0,0,0,,这是怎么回事
+Dialogue: 0,0:00:21.35,0:00:22.56,Idol_Jihen_main,,0,0,0,,被摆了一道啊
+Dialogue: 0,0:00:22.77,0:00:23.86,Idol_Jihen_main,,0,0,0,,摆了一道?
+Dialogue: 0,0:00:24.40,0:00:27.36,Idol_Jihen_main,,0,0,0,,网页上的通知 被人篡改了
+Dialogue: 0,0:00:28.36,0:00:30.65,Idol_Jihen_main,,0,0,0,,有人黑了我们的网站改掉了通知
+Dialogue: 0,0:00:31.70,0:00:35.33,Idol_Jihen_main,,0,0,0,,黑客…情况不乐观啊
+Dialogue: 0,0:00:36.45,0:00:37.95,Idol_Jihen_main,,0,0,0,,谁会做这种事…
+Dialogue: 0,0:00:47.25,0:00:51.88,Idol_Jihen_main,,0,0,0,,都能想象他们慌乱的样子 总理
+Dialogue: 0,0:00:52.59,0:00:53.76,Idol_Jihen_main,,0,0,0,,再加上这种天气
+Dialogue: 0,0:00:54.76,0:00:57.64,Idol_Jihen_main,,0,0,0,,就算运气好 有人去了会场
+Dialogue: 0,0:00:58.31,0:01:00.73,Idol_Jihen_main,,0,0,0,,也算不上什么演唱会吧
+Dialogue: 0,0:01:01.35,0:01:03.65,Idol_Jihen_main,,0,0,0,,真是场及时雨啊
+Dialogue: 0,0:01:05.48,0:01:10.15,Idol_Jihen_main,,0,0,0,,这次可不会让你们为所欲为了 丫头片子们
+Dialogue: 0,0:01:13.32,0:01:15.49,Idol_Jihen_main,,0,0,0,,别想再翻身了
+Dialogue: 0,0:01:18.58,0:01:20.79,Idol_Jihen_main,,0,0,0,,要怎么办呢
+Dialogue: 0,0:01:20.91,0:01:22.12,Idol_Jihen_main,,0,0,0,,还能怎能办…
+Dialogue: 0,0:01:22.50,0:01:23.92,Idol_Jihen_main,,0,0,0,,就算现在重新发布公告…
+Dialogue: 0,0:01:23.92,0:01:26.38,Idol_Jihen_main,,0,0,0,,像这样的雨天 没人会来的
+Dialogue: 0,0:01:26.88,0:01:28.67,Idol_Jihen_main,,0,0,0,,等等 星菜小姐
+Dialogue: 0,0:01:32.38,0:01:33.43,Idol_Jihen_main,,0,0,0,,冰凉的…
+Dialogue: 0,0:01:35.30,0:01:37.35,Idol_Jihen_main,,0,0,0,,但很舒服
+Dialogue: 0,0:01:39.22,0:01:41.73,Idol_Jihen_main,,0,0,0,,在雨中唱歌不也挺好的吗
+Dialogue: 0,0:01:42.64,0:01:46.15,Idol_Jihen_main,,0,0,0,,我说你们二位 现在没有观众啊
+Dialogue: 0,0:01:46.44,0:01:48.77,Idol_Jihen_main,,0,0,0,,这样你们还想继续演唱会啊
+Dialogue: 0,0:01:51.23,0:01:52.44,Idol_Jihen_main,,0,0,0,,因为我们…
+Dialogue: 0,0:01:57.37,0:01:58.37,Idol_Jihen_main,,0,0,0,,是偶像啊
+Dialogue: 0,0:01:59.70,0:02:01.49,Idol_Jihen_main,,0,0,0,,要把歌声传递给大家!
+Dialogue: 0,0:02:02.87,0:02:03.71,Idol_Jihen_main,,0,0,0,,说的好
+Dialogue: 0,0:02:04.00,0:02:05.71,Idol_Jihen_main,,0,0,0,,可是下这么大的雨
+Dialogue: 0,0:02:06.04,0:02:07.29,Idol_Jihen_main,,0,0,0,,万一感冒的话…
+Dialogue: 0,0:02:07.42,0:02:09.75,Idol_Jihen_main,,0,0,0,,撇去那个 现在也没观众啊
+Dialogue: 0,0:02:09.84,0:02:13.84,Idol_Jihen_main,,0,0,0,,没观众的话 就想办法让他们来就好了
+Dialogue: 0,0:02:15.55,0:02:17.80,Idol_Jihen_main,,0,0,0,,可别小瞧偶像哦
+Dialogue: 0,0:02:30.89,0:02:32.14,Idol_Jihen_main,,0,0,0,,这是什么声音
+Dialogue: 0,0:02:32.60,0:02:33.97,Idol_Jihen_main,,0,0,0,,好像听过呢
+Dialogue: 0,0:02:35.31,0:02:37.39,Idol_Jihen_main,,0,0,0,,诶 是那首歌吧
+Dialogue: 0,0:02:38.06,0:02:39.60,Idol_Jihen_main,,0,0,0,,WITH的《START UP, DREAM!!》
+Dialogue: 0,0:02:39.77,0:02:41.69,Idol_Jihen_main,,0,0,0,,今天好像是有演唱会吧
+Dialogue: 0,0:02:42.19,0:02:43.78,Idol_Jihen_main,,0,0,0,,不是说中止了吗
+Dialogue: 0,0:02:44.57,0:02:45.49,Idol_Jihen_main,,0,0,0,,那这歌是怎么回事
+Dialogue: 0,0:02:46.74,0:02:49.16,Idol_Jihen_main,,0,0,0,,这歌好像是从野外舞台那边传来的
+Dialogue: 0,0:02:49.57,0:02:51.07,Idol_Jihen_main,,0,0,0,,走吧走吧 看看去
+Dialogue: 0,0:02:56.62,0:02:57.37,Idol_Jihen_main,,0,0,0,,不是吧…
+Dialogue: 0,0:02:57.96,0:02:59.71,Idol_Jihen_main,,0,0,0,,总觉的有点厉害
+Dialogue: 0,0:02:59.87,0:03:01.08,Idol_Jihen_main,,0,0,0,,超厉害啊
+Dialogue: 0,0:03:22.36,0:03:25.44,Idol_Jihen_main,,0,0,0,,她们俩到底在想什么啊
+Dialogue: 0,0:03:25.94,0:03:28.61,Idol_Jihen_main,,0,0,0,,这要是被发现了肯定会有大麻烦
+Dialogue: 0,0:03:28.95,0:03:31.82,Idol_Jihen_main,,0,0,0,,说不定可能会被剥夺议员资格
+Dialogue: 0,0:03:32.32,0:03:36.54,Idol_Jihen_main,,0,0,0,,现在担心这个 为时已晚了吧
+Dialogue: 0,0:03:38.16,0:03:39.71,Idol_Jihen_main,,0,0,0,,终于开始了呢
+Dialogue: 0,0:03:43.13,0:03:43.92,Idol_Jihen_main,,0,0,0,,小梅
+Dialogue: 0,0:03:44.17,0:03:45.92,Idol_Jihen_main,,0,0,0,,小梅 樱井议员
+Dialogue: 0,0:03:46.75,0:03:47.84,Idol_Jihen_main,,0,0,0,,桂山议员
+Dialogue: 0,0:03:48.59,0:03:49.88,Idol_Jihen_main,,0,0,0,,不好了 看这个
+Dialogue: 0,0:03:50.63,0:03:52.05,Idol_Jihen_main,,0,0,0,,请你看下这个
+Dialogue: 0,0:03:56.43,0:03:57.60,Idol_Jihen_main,,0,0,0,,拜拜
+Dialogue: 0,0:03:58.85,0:03:59.73,Idol_Jihen_main,,0,0,0,,好厉害
+Dialogue: 0,0:04:01.31,0:04:02.60,Idol_Jihen_main,,0,0,0,,你们在看什么呢
+Dialogue: 0,0:04:03.10,0:04:05.57,Idol_Jihen_main,,0,0,0,,啊 这是我的手机
+Dialogue: 0,0:04:05.86,0:04:07.73,Idol_Jihen_main,,0,0,0,,之前的那位姐姐在唱歌呢
+Dialogue: 0,0:04:10.95,0:04:11.28,Idol_Jihen_main,,0,0,0,,不是吧
+Dialogue: 0,0:04:11.61,0:04:12.78,Idol_Jihen_main,,0,0,0,,简直是大新闻
+Dialogue: 0,0:04:13.99,0:04:15.99,Idol_Jihen_main,,0,0,0,,知道了 拜托你了
+Dialogue: 0,0:04:16.91,0:04:20.96,Idol_Jihen_main,,0,0,0,,其他偶像议员好像也行动了
+Dialogue: 0,0:04:21.62,0:04:22.29,Idol_Jihen_main,,0,0,0,,然后呢
+Dialogue: 0,0:04:22.83,0:04:25.59,Idol_Jihen_main,,0,0,0,,不用担心 已经有所准备了
+Dialogue: 0,0:04:26.25,0:04:28.46,Idol_Jihen_main,,0,0,0,,他们应该是打算在演唱会上汇合
+Dialogue: 0,0:04:29.09,0:04:32.30,Idol_Jihen_main,,0,0,0,,抵达不了会场的话也就没意义了
+Dialogue: 0,0:04:33.76,0:04:35.43,Idol_Jihen_main,,0,0,0,,不知天高地厚的丫头片子
+Dialogue: 0,0:04:39.22,0:04:42.02,Idol_Jihen_main,,0,0,0,,不到预想的人数啊
+Dialogue: 0,0:04:42.77,0:04:47.23,Idol_Jihen_main,,0,0,0,,果然 这场演唱会从开始就失败了吧
+Dialogue: 0,0:04:48.69,0:04:51.53,Idol_Jihen_main,,0,0,0,,夏月 静 加油
+Dialogue: 0,0:04:52.53,0:04:55.28,Idol_Jihen_main,,0,0,0,,我们不是独自在战斗
+Dialogue: 0,0:05:02.46,0:05:04.37,Idol_Jihen_main,,0,0,0,,堵车是没办法的事
+Dialogue: 0,0:05:04.67,0:05:07.59,Idol_Jihen_main,,0,0,0,,但怎么觉得老在一个地方转啊
+Dialogue: 0,0:05:07.92,0:05:12.01,Idol_Jihen_main,,0,0,0,,十分抱歉 高速公路出口好像关闭了
+Dialogue: 0,0:05:12.55,0:05:15.55,Idol_Jihen_main,,0,0,0,,啊 这是怎么回事
+Dialogue: 0,0:05:21.77,0:05:23.69,Idol_Jihen_main,,0,0,0,,各位乘客 现播送一条通知
+Dialogue: 0,0:05:24.56,0:05:26.35,Idol_Jihen_main,,0,0,0,,由于前方的转辙器发生故障
+Dialogue: 0,0:05:26.81,0:05:28.77,Idol_Jihen_main,,0,0,0,,现在是紧急停车
+Dialogue: 0,0:05:29.40,0:05:32.40,Idol_Jihen_main,,0,0,0,,目前尚未确定何时重新发车
+Dialogue: 0,0:05:36.49,0:05:38.57,Idol_Jihen_main,,0,0,0,,怎么办啊
+Dialogue: 0,0:05:40.03,0:05:40.54,Idol_Jihen_main,,0,0,0,,怎么了?
+Dialogue: 0,0:05:41.04,0:05:41.58,Idol_Jihen_main,,0,0,0,,这是…
+Dialogue: 0,0:05:42.70,0:05:44.50,Idol_Jihen_main,,0,0,0,,这怎么回事啊
+Dialogue: 0,0:05:44.87,0:05:50.13,Idol_Jihen_main,,0,0,0,,怎么回事 没看见吗 当然是在休息啊
+Dialogue: 0,0:05:50.42,0:05:52.42,Idol_Jihen_main,,0,0,0,,别碍事 快把车开走
+Dialogue: 0,0:05:52.88,0:05:54.38,Idol_Jihen_main,,0,0,0,,我们都过不去了
+Dialogue: 0,0:05:56.13,0:05:58.68,Idol_Jihen_main,,0,0,0,,嗯 你说什么
+Dialogue: 0,0:05:58.85,0:06:01.56,Idol_Jihen_main,,0,0,0,,今天我的耳朵放假
+Dialogue: 0,0:06:02.35,0:06:04.56,Idol_Jihen_main,,0,0,0,,怎么办 樱井议员
+Dialogue: 0,0:06:09.56,0:06:11.15,Idol_Jihen_main,,0,0,0,,啊 堵车…
+Dialogue: 0,0:06:12.11,0:06:12.90,Idol_Jihen_main,,0,0,0,,没路了…
+Dialogue: 0,0:06:19.74,0:06:22.37,Idol_Jihen_main,,0,0,0,,看好了 大浪来喽
+Dialogue: 0,0:06:22.87,0:06:24.79,Idol_Jihen_main,,0,0,0,,走开 蠢货 别过来
+Dialogue: 0,0:06:24.79,0:06:26.66,Idol_Jihen_main,,0,0,0,,上啊
+Dialogue: 0,0:06:26.66,0:06:27.37,Idol_Jihen_main,,0,0,0,,不要啊
+Dialogue: 0,0:06:27.37,0:06:29.25,Idol_Jihen_main,,0,0,0,,上啦
+Dialogue: 0,0:06:35.80,0:06:36.42,Idol_Jihen_main,,0,0,0,,不是吧…
+Dialogue: 0,0:06:37.01,0:06:38.43,Idol_Jihen_main,,0,0,0,,跟上
+Dialogue: 0,0:06:42.89,0:06:45.02,Idol_Jihen_main,,0,0,0,,还好我个子矮
+Dialogue: 0,0:06:51.61,0:06:52.69,Idol_Jihen_main,,0,0,0,,伽里亚议员
+Dialogue: 0,0:06:53.07,0:06:54.07,Idol_Jihen_main,,0,0,0,,没受伤吧
+Dialogue: 0,0:06:54.48,0:06:55.11,Idol_Jihen_main,,0,0,0,,嗯
+Dialogue: 0,0:06:55.44,0:06:56.24,Idol_Jihen_main,,0,0,0,,快走吧
+Dialogue: 0,0:07:00.53,0:07:03.33,Idol_Jihen_main,,0,0,0,,没有更好的办法了吗
+Dialogue: 0,0:07:04.24,0:07:06.41,Idol_Jihen_main,,0,0,0,,这样一点也不Cosmic
+Dialogue: 0,0:07:06.83,0:07:09.42,Idol_Jihen_main,,0,0,0,,可笑 黑暗无所畏惧
+Dialogue: 0,0:07:09.83,0:07:12.38,Idol_Jihen_main,,0,0,0,,正是黑暗给予我们力量…
+Dialogue: 0,0:07:17.97,0:07:19.43,Idol_Jihen_main,,0,0,0,,你们搞什么
+Dialogue: 0,0:07:19.76,0:07:21.26,Idol_Jihen_main,,0,0,0,,快让我们过去
+Dialogue: 0,0:07:21.59,0:07:22.43,Idol_Jihen_main,,0,0,0,,不行不行
+Dialogue: 0,0:07:22.85,0:07:25.43,Idol_Jihen_main,,0,0,0,,不想受伤的话就乖乖回家
+Dialogue: 0,0:07:25.52,0:07:26.31,Idol_Jihen_main,,0,0,0,,说什么呢
+Dialogue: 0,0:07:26.85,0:07:28.31,Idol_Jihen_main,,0,0,0,,别让我说第二次
+Dialogue: 0,0:07:28.68,0:07:29.69,Idol_Jihen_main,,0,0,0,,不想受伤就…
+Dialogue: 0,0:07:34.40,0:07:36.86,Idol_Jihen_main,,0,0,0,,动刀子可不好啊 小子们
+Dialogue: 0,0:07:37.74,0:07:39.74,Idol_Jihen_main,,0,0,0,,你们还算是男人吗
+Dialogue: 0,0:07:41.78,0:07:42.95,Idol_Jihen_main,,0,0,0,,古里议员…
+Dialogue: 0,0:07:43.53,0:07:46.29,Idol_Jihen_main,,0,0,0,,这里交给我们 你们快去吧
+Dialogue: 0,0:07:46.91,0:07:47.33,Idol_Jihen_main,,0,0,0,,可是…
+Dialogue: 0,0:07:47.45,0:07:50.71,Idol_Jihen_main,,0,0,0,,偶尔也让我耍耍帅嘛
+Dialogue: 0,0:07:51.21,0:07:52.63,Idol_Jihen_main,,0,0,0,,快走吧 千夏
+Dialogue: 0,0:07:53.13,0:07:53.63,Idol_Jihen_main,,0,0,0,,好
+Dialogue: 0,0:07:54.38,0:07:56.84,Idol_Jihen_main,,0,0,0,,古里议员 谢谢您
+Dialogue: 0,0:08:00.72,0:08:06.06,Idol_Jihen_main,,0,0,0,,让你们明白为难我们的偶像议员有什么下场
+Dialogue: 0,0:08:10.10,0:08:12.02,Idol_Jihen_main,,0,0,0,,樱子小姐 准备好了吗
+Dialogue: 0,0:08:12.52,0:08:12.85,Idol_Jihen_main,,0,0,0,,好了
+Dialogue: 0,0:08:13.40,0:08:14.31,Idol_Jihen_main,,0,0,0,,小心点
+Dialogue: 0,0:08:14.52,0:08:15.15,Idol_Jihen_main,,0,0,0,,我去了
+Dialogue: 0,0:08:28.33,0:08:30.54,Idol_Jihen_main,,0,0,0,,无论遇到什么困难 我们都不会输
+Dialogue: 0,0:08:31.25,0:08:35.50,Idol_Jihen_main,,0,0,0,,为了大家 为了大家的笑容而歌唱
+Dialogue: 0,0:08:36.09,0:08:39.76,Idol_Jihen_main,,0,0,0,,为了什么 为了谁歌唱
+Dialogue: 0,0:08:40.21,0:08:41.92,Idol_Jihen_main,,0,0,0,,竟然会变得这么开心
+Dialogue: 0,0:08:42.51,0:08:43.13,Idol_Jihen_main,,0,0,0,,传递到吧
+Dialogue: 0,0:08:43.51,0:08:44.22,Idol_Jihen_main,,0,0,0,,传递到吧
+Dialogue: 0,0:08:44.51,0:08:46.39,Idol_Jihen_main,,0,0,0,,传递到吧
+Dialogue: 0,0:08:53.14,0:08:54.65,Idol_Jihen_main,,0,0,0,,糟了 总理
+Dialogue: 0,0:08:55.10,0:08:58.11,Idol_Jihen_main,,0,0,0,,偶像议员和一般市民突破了防线
+Dialogue: 0,0:08:58.40,0:09:01.53,Idol_Jihen_main,,0,0,0,,陆续到达会场了
+Dialogue: 0,0:09:03.45,0:09:04.16,Idol_Jihen_main,,0,0,0,,总理?
+Dialogue: 0,0:09:04.95,0:09:07.16,Idol_Jihen_main,,0,0,0,,这可是千载难逢的机会
+Dialogue: 0,0:09:12.79,0:09:16.04,Idol_Jihen_main,,0,0,0,,我亲自去前线指挥
+Dialogue: 0,0:09:18.56,0:09:22.94,Idol_Jihen_main,,0,0,0,,感谢大家冒雨前来
+Dialogue: 0,0:09:23.07,0:09:24.15,Idol_Jihen_main,,0,0,0,,好厉害
+Dialogue: 0,0:09:24.70,0:09:28.03,Idol_Jihen_main,,0,0,0,,观众正一点点聚集
+Dialogue: 0,0:09:28.70,0:09:33.00,Idol_Jihen_main,,0,0,0,,可是…想要改变这个现状 还不够
+Dialogue: 0,0:09:40.21,0:09:41.42,Idol_Jihen_main,,0,0,0,,好疼…
+Dialogue: 0,0:09:43.30,0:09:44.97,Idol_Jihen_main,,0,0,0,,现在放弃还太早了
+Dialogue: 0,0:09:45.42,0:09:47.97,Idol_Jihen_main,,0,0,0,,这不只是女主角党的战斗
+Dialogue: 0,0:09:48.64,0:09:51.89,Idol_Jihen_main,,0,0,0,,别忘了还有我们
+Dialogue: 0,0:09:52.52,0:09:54.77,Idol_Jihen_main,,0,0,0,,没错
+Dialogue: 0,0:09:59.52,0:10:00.86,Idol_Jihen_main,,0,0,0,,各位贵安
+Dialogue: 0,0:10:01.61,0:10:05.61,Idol_Jihen_main,,0,0,0,,我的登场方式会不会太引人注目了
+Dialogue: 0,0:10:05.99,0:10:07.32,Idol_Jihen_main,,0,0,0,,抱歉我来晚了
+Dialogue: 0,0:10:07.57,0:10:09.45,Idol_Jihen_main,,0,0,0,,请让我也加入吧
+Dialogue: 0,0:10:09.95,0:10:11.78,Idol_Jihen_main,,0,0,0,,快给我让开
+Dialogue: 0,0:10:12.62,0:10:16.71,Idol_Jihen_main,,0,0,0,,竟敢站在掌控黑暗力量的我头上
+Dialogue: 0,0:10:19.67,0:10:21.92,Idol_Jihen_main,,0,0,0,,让你尝尝报应
+Dialogue: 0,0:10:22.67,0:10:24.84,Idol_Jihen_main,,0,0,0,,够啦 快出去
+Dialogue: 0,0:10:24.88,0:10:26.42,Idol_Jihen_main,,0,0,0,,正在兴头上呢
+Dialogue: 0,0:10:26.51,0:10:29.18,Idol_Jihen_main,,0,0,0,,为什么你会随身携带这种诡异的道具啊
+Dialogue: 0,0:10:29.22,0:10:30.14,Idol_Jihen_main,,0,0,0,,工作需要
+Dialogue: 0,0:10:32.68,0:10:34.22,Idol_Jihen_main,,0,0,0,,大家…怎么会…
+Dialogue: 0,0:10:34.64,0:10:36.14,Idol_Jihen_main,,0,0,0,,还需要问吗
+Dialogue: 0,0:10:36.89,0:10:37.77,Idol_Jihen_main,,0,0,0,,瑞希
+Dialogue: 0,0:10:38.14,0:10:40.90,Idol_Jihen_main,,0,0,0,,虽然我们的理念和政党不同
+Dialogue: 0,0:10:41.36,0:10:43.27,Idol_Jihen_main,,0,0,0,,但心中所盼是一样的
+Dialogue: 0,0:10:44.15,0:10:47.28,Idol_Jihen_main,,0,0,0,,这是我们偶像议员的战斗
+Dialogue: 0,0:10:52.07,0:10:52.62,Idol_Jihen_main,,0,0,0,,夏月
+Dialogue: 0,0:10:59.25,0:11:00.33,Idol_Jihen_main,,0,0,0,,太好啦
+Dialogue: 0,0:11:00.54,0:11:04.13,Idol_Jihen_main,,0,0,0,,能再次和静一起唱歌 真是太好了
+Dialogue: 0,0:11:04.80,0:11:07.01,Idol_Jihen_main,,0,0,0,,因为有夏月在我才能歌唱
+Dialogue: 0,0:11:07.63,0:11:09.30,Idol_Jihen_main,,0,0,0,,我们一起努力到最后吧
+Dialogue: 0,0:11:09.84,0:11:10.30,Idol_Jihen_main,,0,0,0,,好
+Dialogue: 0,0:11:10.84,0:11:13.05,Idol_Jihen_main,,0,0,0,,我们也会一起战斗
+Dialogue: 0,0:11:13.97,0:11:16.14,Idol_Jihen_main,,0,0,0,,大家…你们的服饰
+Dialogue: 0,0:11:16.72,0:11:19.44,Idol_Jihen_main,,0,0,0,,可不能只让你们两个出风头
+Dialogue: 0,0:11:19.85,0:11:21.98,Idol_Jihen_main,,0,0,0,,星菜 你太见外了
+Dialogue: 0,0:11:22.23,0:11:24.32,Idol_Jihen_main,,0,0,0,,我们是同一战线的
+Dialogue: 0,0:11:24.52,0:11:27.32,Idol_Jihen_main,,0,0,0,,夏月 我们一起让这里变成最棒的舞台吧
+Dialogue: 0,0:11:27.57,0:11:30.78,Idol_Jihen_main,,0,0,0,,没错 希望一起登上三星级舞台
+Dialogue: 0,0:11:35.53,0:11:37.08,Idol_Jihen_main,,0,0,0,,这个还给你
+Dialogue: 0,0:11:39.12,0:11:39.58,Idol_Jihen_main,,0,0,0,,可是…
+Dialogue: 0,0:11:39.79,0:11:43.21,Idol_Jihen_main,,0,0,0,,别误会 我还没有认同你
+Dialogue: 0,0:11:43.88,0:11:47.13,Idol_Jihen_main,,0,0,0,,总有一天 我会凭实力占据你的位置
+Dialogue: 0,0:11:47.88,0:11:49.05,Idol_Jihen_main,,0,0,0,,千夏…
+Dialogue: 0,0:12:37.85,0:12:38.93,Idol_Jihen_main,,0,0,0,,这是什么鬼!
+Dialogue: 0,0:12:39.43,0:12:41.31,Idol_Jihen_main,,0,0,0,,这样的话不就不能搞事了吗
+Dialogue: 0,0:12:42.10,0:12:43.94,Idol_Jihen_main,,0,0,0,,既然这样强制排除她们
+Dialogue: 0,0:12:45.56,0:12:48.69,Idol_Jihen_main,,0,0,0,,把偶像议员和聚集的观众全部赶走
+Dialogue: 0,0:12:49.23,0:12:52.03,Idol_Jihen_main,,0,0,0,,有抵抗的直接逮捕
+Dialogue: 0,0:12:52.70,0:12:53.57,Idol_Jihen_main,,0,0,0,,听懂了吗
+Dialogue: 0,0:12:55.95,0:12:56.74,Idol_Jihen_main,,0,0,0,,怎么了
+Dialogue: 0,0:12:57.12,0:12:58.74,Idol_Jihen_main,,0,0,0,,全员 向后转
+Dialogue: 0,0:13:00.83,0:13:02.62,Idol_Jihen_main,,0,0,0,,你们在干什么
+Dialogue: 0,0:13:02.87,0:13:04.46,Idol_Jihen_main,,0,0,0,,要赶走的是她们
+Dialogue: 0,0:13:04.71,0:13:06.13,Idol_Jihen_main,,0,0,0,,这到底是怎么回事
+Dialogue: 0,0:13:06.58,0:13:08.79,Idol_Jihen_main,,0,0,0,,听不到我的命令吗
+Dialogue: 0,0:13:08.96,0:13:10.13,Idol_Jihen_main,,0,0,0,,听不见呢
+Dialogue: 0,0:13:10.25,0:13:11.84,Idol_Jihen_main,,0,0,0,,什么 是谁
+Dialogue: 0,0:13:12.26,0:13:14.93,Idol_Jihen_main,,0,0,0,,没人会听你的命令
+Dialogue: 0,0:13:15.38,0:13:16.51,Idol_Jihen_main,,0,0,0,,你是谁
+Dialogue: 0,0:13:16.93,0:13:19.10,Idol_Jihen_main,,0,0,0,,我是这里的负责人 小野寺
+Dialogue: 0,0:13:21.47,0:13:23.73,Idol_Jihen_main,,0,0,0,,多亏了星菜议员的功绩
+Dialogue: 0,0:13:24.31,0:13:26.94,Idol_Jihen_main,,0,0,0,,荣升转进了总部
+Dialogue: 0,0:13:27.23,0:13:29.69,Idol_Jihen_main,,0,0,0,,你是不是想被炒了
+Dialogue: 0,0:13:29.77,0:13:31.98,Idol_Jihen_main,,0,0,0,,原先生 可不能乱说啊
+Dialogue: 0,0:13:32.74,0:13:37.53,Idol_Jihen_main,,0,0,0,,就算是长官 也没有权利随便开除公务员
+Dialogue: 0,0:13:37.82,0:13:39.45,Idol_Jihen_main,,0,0,0,,你是…鹭宫
+Dialogue: 0,0:13:39.78,0:13:43.33,Idol_Jihen_main,,0,0,0,,就是啊 只是办个演唱会而已
+Dialogue: 0,0:13:43.54,0:13:47.75,Idol_Jihen_main,,0,0,0,,随意干涉才是侵犯了言论自由
+Dialogue: 0,0:13:48.08,0:13:49.75,Idol_Jihen_main,,0,0,0,,一起享受吧
+Dialogue: 0,0:13:50.54,0:13:54.84,Idol_Jihen_main,,0,0,0,,而且原本偶像议员禁止法就有不合理的地方
+Dialogue: 0,0:13:55.30,0:14:00.10,Idol_Jihen_main,,0,0,0,,猫岛 古里 桂山 还有伽里亚
+Dialogue: 0,0:14:00.39,0:14:02.64,Idol_Jihen_main,,0,0,0,,你们这群混蛋
+Dialogue: 0,0:14:59.07,0:15:02.37,Idol_Jihen_main,,0,0,0,,总理 还是有大量观众从车站进入
+Dialogue: 0,0:15:02.95,0:15:04.87,Idol_Jihen_main,,0,0,0,,为什么会有这么多人知道
+Dialogue: 0,0:15:05.08,0:15:07.58,Idol_Jihen_main,,0,0,0,,既然这样只能联系警察局长官了
+Dialogue: 0,0:15:07.58,0:15:10.92,Idol_Jihen_main,,0,0,0,,不 还是命令自卫队出动维护治安
+Dialogue: 0,0:15:11.13,0:15:13.84,Idol_Jihen_main,,0,0,0,,把那群小丫头统统除掉吧
+Dialogue: 0,0:15:18.67,0:15:19.72,Idol_Jihen_main,,0,0,0,,总理?
+Dialogue: 0,0:15:31.31,0:15:33.06,Idol_Jihen_main,,0,0,0,,她们不是偶像
+Dialogue: 0,0:15:35.48,0:15:36.73,Idol_Jihen_main,,0,0,0,,是偶像议员
+Dialogue: 0,0:15:41.91,0:15:44.74,Idol_Jihen_main,,0,0,0,,好啊 那我就接受你们的挑战
+Dialogue: 0,0:16:34.33,0:16:35.67,Idol_Jihen_main,,0,0,0,,为什么各位会…
+Dialogue: 0,0:16:36.84,0:16:38.50,Idol_Jihen_main,,0,0,0,,还用问吗
+Dialogue: 0,0:16:39.21,0:16:43.76,Idol_Jihen_main,,0,0,0,,因为我觉的这是我们现在应该做的事…仅此而已
+Dialogue: 0,0:16:44.30,0:16:47.18,Idol_Jihen_main,,0,0,0,,可你们不是还没认同我们…
+Dialogue: 0,0:16:47.64,0:16:51.48,Idol_Jihen_main,,0,0,0,,确实比不上三日月神乐那个时代
+Dialogue: 0,0:16:51.81,0:16:53.81,Idol_Jihen_main,,0,0,0,,所以才要继续奔跑前进
+Dialogue: 0,0:16:54.52,0:16:58.15,Idol_Jihen_main,,0,0,0,,直到能超越我们的那天为止
+Dialogue: 0,0:16:58.48,0:17:00.40,Idol_Jihen_main,,0,0,0,,我们都会是挡在你们面前的高山
+Dialogue: 0,0:17:06.49,0:17:14.92,Idol_Jihen_main,,0,0,0,,非常感谢今天来这里听我们唱歌的各位
+Dialogue: 0,0:17:47.99,0:17:53.04,Idol_Jihen_main,,0,0,0,,前些日子 偶像议员举办的演唱会给社会带来了巨大的冲击
+Dialogue: 0,0:17:53.62,0:17:55.04,Idol_Jihen_main,,0,0,0,,我作为一名政治家
+Dialogue: 0,0:17:55.29,0:17:57.00,Idol_Jihen_main,,0,0,0,,不 作为总理
+Dialogue: 0,0:17:57.17,0:17:59.42,Idol_Jihen_main,,0,0,0,,不能听之任之
+Dialogue: 0,0:18:00.04,0:18:05.05,Idol_Jihen_main,,0,0,0,,这个国家的国民对我们政治家抱有怎样的希望
+Dialogue: 0,0:18:05.55,0:18:06.59,Idol_Jihen_main,,0,0,0,,我想听听回答
+Dialogue: 0,0:18:07.93,0:18:09.43,Idol_Jihen_main,,0,0,0,,我作为总理宣布
+Dialogue: 0,0:18:09.89,0:18:15.85,Idol_Jihen_main,,0,0,0,,解散议会 举行大选
+Dialogue: 0,0:18:16.44,0:18:17.85,Idol_Jihen_main,,0,0,0,,果然是这样吗
+Dialogue: 0,0:18:19.94,0:18:24.15,Idol_Jihen_main,,0,0,0,,举行大选 看来是下定决心了呢
+Dialogue: 0,0:18:24.32,0:18:26.07,Idol_Jihen_main,,0,0,0,,没事的 不会输的
+Dialogue: 0,0:18:26.99,0:18:29.49,Idol_Jihen_main,,0,0,0,,只要和静在一起 做什么都能做到
+Dialogue: 0,0:18:32.33,0:18:33.04,Idol_Jihen_main,,0,0,0,,没错
+Dialogue: 0,0:18:36.16,0:18:39.00,Idol_Jihen_main,,0,0,0,,好了 你们两个都鼓起干劲来
+Dialogue: 0,0:18:39.37,0:18:39.88,Idol_Jihen_main,,0,0,0,,嗯
+Dialogue: 0,0:20:22.81,0:20:26.52,Idol_Jihen_main,,0,0,0,,夏月 不开电视看看吗
+Dialogue: 0,0:20:26.98,0:20:28.32,Idol_Jihen_main,,0,0,0,,没事没事
+Dialogue: 0,0:20:28.53,0:20:31.45,Idol_Jihen_main,,0,0,0,,看选举速报只会更紧张
+Dialogue: 0,0:20:31.78,0:20:34.16,Idol_Jihen_main,,0,0,0,,而且该做的都做了
+Dialogue: 0,0:20:34.66,0:20:36.78,Idol_Jihen_main,,0,0,0,,真的一点也没变啊
+Dialogue: 0,0:20:37.45,0:20:38.49,Idol_Jihen_main,,0,0,0,,久等了
+Dialogue: 0,0:20:38.99,0:20:40.91,Idol_Jihen_main,,0,0,0,,来 随便吃
+Dialogue: 0,0:20:41.41,0:20:44.67,Idol_Jihen_main,,0,0,0,,真棒 是奶奶做的饭团
+Dialogue: 0,0:20:44.67,0:20:45.42,Idol_Jihen_main,,0,0,0,,给
+Dialogue: 0,0:20:45.96,0:20:46.50,Idol_Jihen_main,,0,0,0,,咦
+Dialogue: 0,0:20:47.21,0:20:48.92,Idol_Jihen_main,,0,0,0,,感觉比平时的大
+Dialogue: 0,0:20:49.17,0:20:50.01,Idol_Jihen_main,,0,0,0,,那当然了
+Dialogue: 0,0:20:50.21,0:20:51.67,Idol_Jihen_main,,0,0,0,,鼓起干劲捏的嘛
+Dialogue: 0,0:20:51.97,0:20:54.09,Idol_Jihen_main,,0,0,0,,来 三平也别客气 随便吃
+Dialogue: 0,0:20:54.51,0:20:54.97,Idol_Jihen_main,,0,0,0,,嗯
+Dialogue: 0,0:20:55.64,0:20:57.80,Idol_Jihen_main,,0,0,0,,我开动了
+Dialogue: 0,0:20:59.93,0:21:00.52,Idol_Jihen_main,,0,0,0,,喂
+Dialogue: 0,0:21:06.86,0:21:08.86,Idol_Jihen_main,,0,0,0,,你好 我是星菜
+Dialogue: 0,0:21:09.57,0:21:11.57,Idol_Jihen_main,,0,0,0,,是的 是我
+Dialogue: 0,0:21:13.28,0:21:15.28,Idol_Jihen_main,,0,0,0,,什么 真的吗
+Dialogue: 0,0:21:15.95,0:21:17.28,Idol_Jihen_main,,0,0,0,,非常感谢
+Dialogue: 0,0:21:26.75,0:21:27.96,Idol_Jihen_main,,0,0,0,,我回来了
+Dialogue: 0,0:21:33.97,0:21:36.13,Idol_Jihen_main,,0,0,0,,你在感伤个什么劲
+Dialogue: 0,0:21:37.30,0:21:39.89,Idol_Jihen_main,,0,0,0,,我们的战斗才刚刚开始
+Dialogue: 0,0:21:40.39,0:21:43.77,Idol_Jihen_main,,0,0,0,,抱歉 感觉再次回来有点感动
+Dialogue: 0,0:21:44.10,0:21:45.27,Idol_Jihen_main,,0,0,0,,不也挺好的
+Dialogue: 0,0:21:45.89,0:21:50.98,Idol_Jihen_main,,0,0,0,,不过各位偶像议员一个没少都再次当选
+Dialogue: 0,0:21:51.40,0:21:52.36,Idol_Jihen_main,,0,0,0,,真是太好了
+Dialogue: 0,0:21:52.65,0:21:54.03,Idol_Jihen_main,,0,0,0,,是真的吗
+Dialogue: 0,0:21:54.40,0:21:57.41,Idol_Jihen_main,,0,0,0,,嗯 马上就能在会议厅看见了
+Dialogue: 0,0:21:57.41,0:21:58.82,Idol_Jihen_main,,0,0,0,,快走吧 静
+Dialogue: 0,0:21:59.03,0:22:00.08,Idol_Jihen_main,,0,0,0,,急什么啊
+Dialogue: 0,0:22:00.12,0:22:02.74,Idol_Jihen_main,,0,0,0,,跟学校一样 不能在走廊乱跑啊
+Dialogue: 0,0:22:03.12,0:22:04.58,Idol_Jihen_main,,0,0,0,,我知道的呀
+Dialogue: 0,0:22:06.96,0:22:07.62,Idol_Jihen_main,,0,0,0,,总理
+Dialogue: 0,0:22:07.83,0:22:10.67,Idol_Jihen_main,,0,0,0,,看来顺利当选了呢
+Dialogue: 0,0:22:11.09,0:22:13.21,Idol_Jihen_main,,0,0,0,,先恭喜一下你们
+Dialogue: 0,0:22:13.88,0:22:16.80,Idol_Jihen_main,,0,0,0,,不过我的信念是不会改变的
+Dialogue: 0,0:22:17.34,0:22:19.93,Idol_Jihen_main,,0,0,0,,国会议员不需要表演
+Dialogue: 0,0:22:20.43,0:22:23.77,Idol_Jihen_main,,0,0,0,,作为议员 只要为国政献身
+Dialogue: 0,0:22:26.10,0:22:30.31,Idol_Jihen_main,,0,0,0,,如果你们还要在自己坚信的道路上前进的话
+Dialogue: 0,0:22:30.65,0:22:33.23,Idol_Jihen_main,,0,0,0,,就尽管放马过来
+Dialogue: 0,0:22:33.69,0:22:35.49,Idol_Jihen_main,,0,0,0,,我会随时接受挑战
+Dialogue: 0,0:22:43.20,0:22:45.04,Idol_Jihen_main,,0,0,0,,可不要输给他了 夏月
+Dialogue: 0,0:22:46.25,0:22:47.62,Idol_Jihen_main,,0,0,0,,这可是我们的梦想
+Dialogue: 0,0:22:48.46,0:22:49.42,Idol_Jihen_main,,0,0,0,,我们的
+Dialogue: 0,0:22:50.96,0:22:53.84,Idol_Jihen_main,,0,0,0,,让大家露出笑容 对吧
+Dialogue: 0,0:22:55.84,0:22:56.55,Idol_Jihen_main,,0,0,0,,嗯
+Dialogue: 0,0:23:40.47,0:23:43.30,Idol_Jihen_main,,0,0,0,,我是出生在福冈的偶像议员 鬼丸静
+Dialogue: 0,0:23:43.60,0:23:45.76,Idol_Jihen_main,,0,0,0,,多亏了大家的声援我才能走到这里
+Dialogue: 0,0:23:45.76,0:23:46.52,Idol_Jihen_main,,0,0,0,,非常感谢
+Dialogue: 0,0:23:46.72,0:23:48.85,Idol_Jihen_main,,0,0,0,,能和你搭档 真是太好了
+Dialogue: 0,0:05:33.28,0:05:36.11,Idol_Jihen_main_up,,0,0,0,,十分抱歉 给各位乘客添了麻烦
+Dialogue: 0,0:05:54.63,0:05:56.34,Idol_Jihen_main_up,,0,0,0,,就是 赶紧的
+Dialogue: 0,0:17:43.75,0:17:46.25,Idol_Jihen_screen,,0,0,0,,标题：偶像议员禁止法案质疑不断
+Comment: 0,0:17:45.84,0:17:47.84,Idol_Jihen_screen,,0,0,0,,
+Dialogue: 0,0:02:26.62,0:02:31.71,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}手と手取りあって 未來へ駆け出そう
+Dialogue: 0,0:02:31.96,0:02:39.26,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}可能性信じだら どこまでだって行けるよ
+Dialogue: 0,0:02:39.46,0:02:42.43,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}LET'S START UP, DREAM！！
+Dialogue: 0,0:02:51.73,0:02:56.44,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}始まりの鼓動 感じてる
+Dialogue: 0,0:02:56.86,0:03:01.44,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}聞いて？ ひたむきな情熱 熱い決意(おもい)
+Dialogue: 0,0:03:02.49,0:03:06.87,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}素直な意見(きもち) ちゃんと知りたいんだ
+Dialogue: 0,0:03:07.78,0:03:13.00,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}だってもっとドキドキとか 笑顏分け合いたい
+Dialogue: 0,0:03:13.54,0:03:16.67,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}自分のチカラ 信じ精一杯
+Dialogue: 0,0:03:17.04,0:03:24.38,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}声をあげて 今 世界中に屆けたい
+Comment: 0,0:03:23.38,0:03:25.76,Idol_Jihen_song_jp,,0,0,0,,{\an3}LET'S START UP,DREAM!! WITH ME
+Dialogue: 0,0:03:25.34,0:03:30.31,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}明日は変わる！ きっと変えられる！
+Dialogue: 0,0:03:30.56,0:03:35.60,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}ブレない希望掲げ 歌うから
+Dialogue: 0,0:03:36.19,0:03:41.11,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}手と手 取りあって 未來へ駆け出そう
+Dialogue: 0,0:03:41.57,0:03:48.83,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}まだ知らない輝き 一緒に見よう 約束
+Dialogue: 0,0:14:17.96,0:14:21.00,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}太陽の周りをYEAH YEAH
+Dialogue: 0,0:14:21.08,0:14:23.79,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}グルグル回る回る
+Dialogue: 0,0:14:24.21,0:14:28.84,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}信念さえあれば I Believe
+Dialogue: 0,0:14:29.42,0:14:32.34,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}この世は変えられるさ
+Dialogue: 0,0:14:33.55,0:14:36.10,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}与党野党に甘党
+Dialogue: 0,0:14:36.64,0:14:39.10,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}派閥なんてどうでもいい
+Dialogue: 0,0:14:39.73,0:14:45.82,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}グローバルにこの地球愛しているだけ
+Dialogue: 0,0:14:45.90,0:14:48.53,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}任期、景気、ヒエラルキー
+Dialogue: 0,0:14:48.99,0:14:51.49,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}いろんな人が生きてる
+Dialogue: 0,0:14:52.28,0:14:57.12,Idol_Jihen_song_jp,,0,0,0,,{\fad(100,100)}苦労した分 結果につながるよ
+Comment: 0,0:02:24.62,0:02:26.62,Idol_Jihen_song_cn,,0,0,0,,
+Dialogue: 0,0:02:26.62,0:02:31.71,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}手拉手一起奔向未来
+Dialogue: 0,0:02:31.96,0:02:39.26,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}相信一切都有可能的话 无论多远都能到达
+Dialogue: 0,0:02:39.46,0:02:42.43,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}LET'S START UP,DREAM
+Dialogue: 0,0:02:51.73,0:02:56.44,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}感受着最初的悸动
+Dialogue: 0,0:02:56.86,0:03:01.44,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}在听吗 全神贯注的激情 沸腾火热的感情
+Dialogue: 0,0:03:02.49,0:03:06.87,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}只想看到你的真心
+Dialogue: 0,0:03:07.78,0:03:13.00,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}因为我的心扑通扑通着想和你分享笑容
+Dialogue: 0,0:03:13.54,0:03:16.67,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}相信着自己的能力全力以赴
+Dialogue: 0,0:03:17.04,0:03:24.38,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}放声唱吧 想让全世界听到
+Dialogue: 0,0:03:23.38,0:03:25.76,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}{\an9}LET'S START UP,DREAM!! WITH ME
+Dialogue: 0,0:03:25.34,0:03:30.31,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}明天会有所改变 一定大不同
+Dialogue: 0,0:03:30.56,0:03:35.60,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}因为我们怀着毫不动摇的希望放声歌唱
+Dialogue: 0,0:03:36.19,0:03:41.11,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}手拉手一起奔向未来
+Dialogue: 0,0:03:41.57,0:03:48.83,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}未知的闪耀 要一起去看呀 约定好了
+Dialogue: 0,0:14:17.96,0:14:21.00,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}在太阳的周围 YEAH YEAH
+Dialogue: 0,0:14:21.08,0:14:23.79,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}咕噜咕噜旋转旋转
+Dialogue: 0,0:14:24.21,0:14:28.84,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}只要有信念 I Believe
+Dialogue: 0,0:14:29.42,0:14:32.34,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}这个世界定能改变
+Dialogue: 0,0:14:33.55,0:14:36.10,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}执政党在野党都是甜食党
+Dialogue: 0,0:14:36.64,0:14:39.10,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}派别斗争什么的无所谓
+Dialogue: 0,0:14:39.73,0:14:45.82,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}只要全球的人都爱着地球
+Dialogue: 0,0:14:45.90,0:14:48.53,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}任期 衰荣 制度等级
+Dialogue: 0,0:14:48.99,0:14:51.49,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}各种各样的人觅求着生机
+Dialogue: 0,0:14:52.28,0:14:57.12,Idol_Jihen_song_cn,,0,0,0,,{\fad(100,100)}付出的努力 是和结果相连的哦
+Comment: 0,0:02:20.82,0:02:20.82,Idol_Jihen_title,,0,0,0,,
+Dialogue: 0,0:02:19.49,0:02:23.49,Idol_Jihen_title,,0,0,0,,{\fad(500,450)\pos(1198.534,586)\blur4\bord1.3}事变12   无论如何都是偶像议员！
+Dialogue: 0,0:18:41.30,0:18:45.56,Idol_Jihen_op_cn,,0,0,0,,{\fad(250,0)\fs30\fn方正兰亭圆_GBK_准\s0\bord2\blur4\shad0\3c&H19191B&\c&H000000&\b1\pos(602.667,454.4)}制作          {\fs36}喵萌奶茶屋偶像委员会
+Dialogue: 0,0:18:41.30,0:18:45.56,Idol_Jihen_op_cn,,0,0,0,,{\fad(250,0)\fs30\s0\fn方正兰亭圆_GBK_准\bord0\shad0\3c&H020202&\b1\pos(602.667,454.4)}制作          {\fs36}喵萌奶茶屋偶像委员会
+Dialogue: 0,0:02:23.49,0:02:24.62,Idol_Jihen_title,,0,0,0,,

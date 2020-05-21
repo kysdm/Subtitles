@@ -1,0 +1,5 @@
+﻿华文圆体 Regular
+萝莉体 第二版
+翩翩体-简粗体 <HanziPen SC Bold>
+手札体-简 <Hannotate SC>
+腾祥嘉丽中圆GB18030 <Tensentype JiaLiZhongYuanGB18030>
