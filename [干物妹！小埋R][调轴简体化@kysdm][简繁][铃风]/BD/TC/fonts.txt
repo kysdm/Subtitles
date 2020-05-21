@@ -1,0 +1,13 @@
+﻿華康POP1體W7
+華康布丁體W7
+華康方圓體W7 <DFFangYuanW7-B5>
+華康儷中黑 <DFLiHei-Md>
+華康儷中宋
+華康墨字體
+華康魏碑體
+華康新綜藝體W5 <DFZongYiW5-B5>
+華康硬黑體W7 <DFYingHeiW7-B5>
+華康中黑體
+華康中圓體 <DFYuanMedium-B5>
+微軟正黑體 <Microsoft JhengHei>
+微軟正黑體 Bold <Microsoft JhengHei Bold>

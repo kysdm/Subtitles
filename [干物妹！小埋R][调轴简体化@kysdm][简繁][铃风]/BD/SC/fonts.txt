@@ -1,0 +1,13 @@
+﻿方正兰亭黑_GBK <FZLanTingHei-R-GBK>
+方正兰亭准黑_GBK <FZLanTingHei-M-GBK>
+方正少儿_GBK <FZShaoEr-M11>
+方正魏碑_GBK <FZWeiBei-S03>
+方正准雅宋_GBK <FZYaSong-M-GBK>
+华康POP3体W12 <DFPOP3W12-GB>
+华康布丁体W12 <DFBuDingW12-GB>
+华康方圆体W7 <DFFangYuanW7-GB>
+华康新综艺W7(P) <DFPZongYiW7-GB>
+腾祥嘉丽中圆GB18030 <Tensentype JiaLiZhongYuanGB18030>
+田氏颜体大字库 <Tianshi-Yanti>
+微軟正黑體 <Microsoft JhengHei>
+微軟正黑體 Bold <Microsoft JhengHei Bold>
